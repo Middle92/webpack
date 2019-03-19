@@ -1,4 +1,4 @@
-# https://docs.npmjs.com/files/package.json npm-package文档
+https://docs.npmjs.com/files/package.json npm-package文档
 
 问题：
 1. 初始化 npm install webpack -D会报错.
