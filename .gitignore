@@ -1,2 +1,4 @@
-*node_modules
+# https://www.jianshu.com/p/a078cf2fd9b0 参考地址
+/node_modules
+/dist
 *package-lock.json
